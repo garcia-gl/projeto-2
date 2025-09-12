@@ -5,8 +5,15 @@ body {
    display: flex;
    justify-content: center;
    align-items: center;
+   height: 700px;
+   margin: 0;
+ }
 
-
+button {
+   background-color: aqua;
+   color: white;
+   font-family:"Mozilla Headline", sans-serif;
+}
 
 
 
