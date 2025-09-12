@@ -1,7 +1,20 @@
 body {
-  background-color:rgb(53, 53, 122);
-  color: white;
-  
+   background-color:rgb(53, 53, 122);
+   color: white;
+   font-family: "Mozilla Headline",sans-serif;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+
+
+
+
+
+
+
+
+
 
 
 
