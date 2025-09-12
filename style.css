@@ -15,9 +15,13 @@ button {
    font-family:"Mozilla Headline", sans-serif;
 }
 
+.passo {
+  display: none;
+}
 
-
-
+.passo.ativo{
+  display:block;
+}
 
 
 
