@@ -10,7 +10,7 @@ body {
  }
 
 button {
-   background-color: aqua;
+   background-color: rgb(17, 22, 22);
    color: white;
    font-family:"Mozilla Headline", sans-serif;
 }
